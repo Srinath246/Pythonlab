@@ -8,4 +8,5 @@ for x in range(len(item)):
             item[x]=big
             print(item)
                    
+print(item, "sorted")
     
